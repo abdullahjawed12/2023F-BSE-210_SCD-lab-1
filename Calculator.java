@@ -13,7 +13,7 @@ public class Calculator implements ActionListener{
 	Boolean isOparetoclicked=false;
 //	String oldValue;
 //	String newValue;
-	
+	// James GUNN
 	JFrame jf;
 	JLabel DisplayLabel;
 	JButton sevenbutton,eightbutton,ninebutton,
